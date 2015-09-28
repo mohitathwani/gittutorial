@@ -1,1 +1,2 @@
 The first step is: 'git init'
+The second step is: 'git status'
